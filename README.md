@@ -1,24 +1,28 @@
-# grc-risk-register-lab
-GRC risk register project using Excel to identify, score, and mitigate security risks
-
-GRC Risk Register Lab
+# GRC Risk Register Lab
 
 This project shows a basic GRC workflow using a risk register built in Excel. I identified common security risks, assigned likelihood and impact scores, calculated risk scores, and defined mitigation steps, owners, residual risk, and review dates.
 
-Risks included phishing, weak passwords, lack of MFA, cloud misconfiguration, unpatched systems, insider misuse, malware, missing backups, network exposure, and vendor risk.
+## Risks Covered
+- Phishing attacks
+- Weak password policies
+- No multi factor authentication
+- Misconfigured cloud storage
+- Unpatched systems
+- Insider data misuse
+- Malware infection
+- Lack of backups
+- Unsecured network access
+- Third party vendor risk
 
-Skills:
+## Skills
+- Risk assessment
+- Risk scoring
+- Mitigation planning
+- GRC fundamentals
 
-Risk assessment
-Risk scoring
-Mitigation planning
-GRC fundamentals
+## Tools
+- Microsoft Excel
 
-Tools:
-
-Microsoft Excel
-
-Files:
-
-GRC-Risk-Register.xlsx
-GRC-Risk-Register-Jayden-Williams.pdf
+## Files
+- GRC-Risk-Register.xlsx
+- GRC-Risk-Register-Jayden-Williams.pdf
