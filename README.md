@@ -1,5 +1,8 @@
 # GRC Risk Register Lab
 
+## Preview
+![Risk Register](risk-register-dashboard.png)
+
 This project shows a basic GRC workflow using a risk register built in Excel. I identified common security risks, assigned likelihood and impact scores, calculated risk scores, and defined mitigation steps, owners, residual risk, and review dates.
 
 ## Risks Covered
